@@ -1,5 +1,6 @@
 ---
 marp: true
+math: true
 ---
 
 # Präsentationen mir Markdown
@@ -12,13 +13,15 @@ marp: true
 - ... sehr natürliche und leserliche Syntax
 - ... alle Features von Markdown
 
+<!-- Notizen für den Präsentierer -->
+
 ---
 
 ## Mathe
 
 Wie in den normalen Dokumenten können wir auch hier Formeln verwenden:
 
-$$ \int\_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} $$
+$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
 
 ---
 

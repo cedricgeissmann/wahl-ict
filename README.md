@@ -89,3 +89,23 @@ Die Zusammenarbeit über Git erfolgt immer über verschiedene `branches`. Genau
 diese können auch verwendet werden, um verschiedene Versionen der Projekte zu
 erstellen. Diese können dann wenn nötig zusammengeführt werden, oder einfach
 verworfen werden wenn sie nicht mehr gebraucht werden.
+
+## Excalidraw
+
+Wir können auch viele unnötige Extensions installieren, wie zum Beispiel
+Excalidraw. Das Resultat könnnen wir dann einfach einbinden.
+
+![Excalidraw](board.excalidraw.png)
+
+## Mermaid
+
+Eine weitere unnötige Extension ist `Mermaid`. Hier können wir einfach Diagramme
+beschreiben, diese werden dann gleich gezeichnet.
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
