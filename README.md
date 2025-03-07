@@ -82,3 +82,10 @@ nicht mehr gegeben.
 Ein riesen Vorteil von Git ist, das ich mir die Änderungen von anderen Personen
 anschauen kann. Ich sehe also auf einen Blick was seit dem letzten mal verändert
 wurde.
+
+## Mehrere Versionen
+
+Die Zusammenarbeit über Git erfolgt immer über verschiedene `branches`. Genau
+diese können auch verwendet werden, um verschiedene Versionen der Projekte zu
+erstellen. Diese können dann wenn nötig zusammengeführt werden, oder einfach
+verworfen werden wenn sie nicht mehr gebraucht werden.
