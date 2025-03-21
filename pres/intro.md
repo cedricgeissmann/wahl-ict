@@ -3,7 +3,7 @@ marp: true
 math: true
 ---
 
-# Präsentationen mir Markdown
+# Präsentationen mit Markdown
 
 ---
 
@@ -13,7 +13,7 @@ math: true
 - ... sehr natürliche und leserliche Syntax
 - ... alle Features von Markdown
 
-<!-- Notizen für den Präsentierer -->
+<!-- Notizen zu den Slides -->
 
 ---
 
